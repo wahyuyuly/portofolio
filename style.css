@@ -1,0 +1,79 @@
+html {
+	position: relative;
+}
+
+body {
+	margin-bottom: 100px;
+	margin-top: 35px;
+}
+
+.jumbotron {
+	color: #050505;
+	background-image: url(".https://storage.cloud.google.com/zahra-bucket/img/jumb_back.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: 0 -70px;
+}
+
+.jumbotron img {
+	width: 200px;
+	border: 5px solid #eaeaea;
+	box-shadow: 1px 1px 10px rgba(0,0,0,0.5);
+}
+
+.jumbotoron h1, .jumbotron p {
+	text-shadow: 1px 1px 10px rgba(0,0,0,0.5);
+}
+
+.about p {
+	margin-bottom: 20px;
+	font-size: 18px;
+	text-align: justify;
+}
+
+.about hr {
+	width: 250px;
+	border-top: 3px solid #999;
+}
+
+.section {
+	min-height: 600px;
+}
+
+.portfolio hr {
+	width: 250px;
+	border-top: 3px solid #999;
+}
+
+.portfolio {
+	background-color: #eee;
+}
+
+.contact {
+	min-height: 800px;
+}
+
+.contact hr {
+	width: 250px;
+	border-top: 3px solid #999;
+}
+
+footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 100px;
+	background-color: #800000;
+	padding-top: 10px;
+}
+
+footer p {
+	color: #aaa;
+	font-size: 0.9em;
+}
+
+footer a {
+	text-decoration: none;
+	color: salmon;
+	padding: 2px;
+}
