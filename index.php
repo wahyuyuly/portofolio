@@ -73,11 +73,11 @@
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03"aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
   <span class="navbar-toggler-icon"></span>
   </button>
-    <a class="navbar-brand" href="index.html">Wahyu Yuly Artha</a>
+    <a class="navbar-brand" href="index.php">Wahyu Yuly Artha</a>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="index.html">Beranda</a></li>
-        <li><a href="portfolio.html">Portfolio</a></li>
+        <li class="active"><a href="index.php">Beranda</a></li>
+        <li><a href="portfolio.php">Portfolio</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-center">
         <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Masuk</a></li>
