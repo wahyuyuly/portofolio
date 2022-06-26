@@ -9,4 +9,4 @@ handlers:
   upload: images/(.*\.(gif|png|jpg))
   
 - url: /.*
-  script: portfolio.html
+  script: portfolio.php
