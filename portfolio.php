@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
     <!-- Head -->
-    <link rel="icon" href="https://storage.cloud.google.com/yuriko-bucket/img/header_logo.png">
+    <link rel="icon" href="https://storage.cloud.google.com/putri-bucket/img/header_logo.png">
     <link rel="stylesheet" type="text/css" href="style.css">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
     <title>ManUtd - Portfolio</title>
@@ -48,7 +48,7 @@
 
     <!-- Jumbotron -->
     <div class="jumbotron text-center">
-    	<img src="https://storage.cloud.google.com/yuriko-bucket/img/wahyu.jpg" class="rounded-circle">
+    	<img src="https://storage.cloud.google.com/putri-bucket/img/wahyu.jpg" class="rounded-circle">
     	<h1>Wahyu Yuly Artha</h1>
     	<p>VIDEOS | NEWS | FIXTURES | PLAYERS</p>
     </div>
@@ -88,32 +88,32 @@
     		<div class="row">
     			<div class="col-sm-4">
     				<a href="#" class="d-block mb-4 h-100">
-    					<img class="img-fluid img-thumbnail" src="https://storage.cloud.google.com/yuriko-bucket/img/portfolio/1.jpg">
+    					<img class="img-fluid img-thumbnail" src="https://storage.cloud.google.com/putri-bucket/img/1.jpg">
     				</a>
     			</div>
     			<div class="col-sm-4">
     				<a href="#" class="d-block mb-4 h-100">
-    					<img class="img-fluid img-thumbnail" src="https://storage.cloud.google.com/yuriko-bucket/img/portfolio/2.jpg">
+    					<img class="img-fluid img-thumbnail" src="https://storage.cloud.google.com/putri-bucket/img/2.jpg">
     				</a>
     			</div>
     			<div class="col-sm-4">
     				<a href="#" class="d-block mb-4 h-100">
-    					<img class="img-fluid img-thumbnail" src="https://storage.cloud.google.com/yuriko-bucket/img/portfolio/3.jpg">
+    					<img class="img-fluid img-thumbnail" src="https://storage.cloud.google.com/putri-bucket/img/3.jpg">
     				</a>	
     			</div>	
     			<div class="col-sm-4">
     				<a href="#" class="d-block mb-4 h-100">
-    					<img class="img-fluid img-thumbnail" src="https://storage.cloud.google.com/yuriko-bucket/img/portfolio/4.jpg">
+    					<img class="img-fluid img-thumbnail" src="https://storage.cloud.google.com/putri-bucket/img/4.jpg">
     				</a>	
     			</div>	
     			<div class="col-sm-4">
     				<a href="#" class="d-block mb-4 h-100">
-    					<img class="img-fluid img-thumbnail" src="https://storage.cloud.google.com/yuriko-bucket/img/portfolio/5.jpg">
+    					<img class="img-fluid img-thumbnail" src="https://storage.cloud.google.com/putri-bucket/img/5.jpg">
     				</a>
     			</div>	
     			<div class="col-sm-4">
     				<a href="#" class="d-block mb-4 h-100">
-    					<img class="img-fluid img-thumbnail" src="https://storage.cloud.google.com/yuriko-bucket/img/portfolio/6.jpg">
+    					<img class="img-fluid img-thumbnail" src="https://storage.cloud.google.com/putri-bucket/img/6.jpg">
     				</a>
     			</div>					
     		</div>	
