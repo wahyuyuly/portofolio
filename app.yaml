@@ -1,12 +1,12 @@
-runtime: php27
+runtime: php72
 
 handlers:
 - url: /styles
   static_dir: styles
   
-- url: /images/(.*\.(gif|png|jpg))
-  static_files: images/\1
-  upload: images/(.*\.(gif|png|jpg))
+- url: /img/(.*\.(gif|png|jpg))
+  static_files: img/\1
+  upload: img/(.*\.(gif|png|jpg))
   
 - url: /.*
   script: portfolio.php
